@@ -52,7 +52,7 @@ Lightweight ETL module for ingesting structured JSON data into MongoDB — desig
 ## 🏢 Notable Professional Work *(proprietary — no public repo)*
 
 ### Essilor Luxottica — Global Store Analytics PWA Suite
-*Abstract · 2017–2022 · €800K budget · Team of 12*
+* 2017–2022 · €800K budget · Team of 12*
 
 Suite of PWAs aggregating real-time sales and performance data from stores across the globe — from individual store level up to continental and executive views. CEO and President-level financial dashboards built to handle millions of records processed daily via a Big Data ETL pipeline.
 
@@ -64,8 +64,8 @@ Suite of PWAs aggregating real-time sales and performance data from stores acros
 
 `React` `TypeScript` `Scala` `Apache Spark` `MongoDB` `SAP` `Node.js` `Python` `PowerShell`
 
-### NEVERHACK — AI-Powered Brand & Threat Intelligence Platform
-*NEVERHACK · 2022–2025 · €500K budget · Team of 10 · PM + Product Owner*
+### AI-Powered Brand & Threat Intelligence Platform
+*  2022–2025 · €500K budget · Team of 10 · PM + Product Owner*
 
 Proprietary SaaS platform that uses AI to monitor a company's digital footprint across social networks, forums, and the dark web — automatically generating threat reports and triggering live blocking actions against data breaches, credential leaks, and sensitive information exposure.
 
